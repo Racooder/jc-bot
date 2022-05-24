@@ -2,7 +2,7 @@
 ![Logo Light](./res/#gh-light-mode-only)
 
 <div align="center">
-    <a href="https://discord.gg/9Y8BE2A6cj"><img src="https://img.shields.io/discord/742408289593327616?label=Josh Connects&logo=discord&logoColor=white" alt="Discord server"/></a>
+    <a href="https://discord.gg/joshconnects"><img src="https://img.shields.io/discord/742408289593327616?label=Josh Connects&logo=discord&logoColor=white" alt="Discord server"/></a>
     <a href="https://github.com/Studio-Racoonia/jc-bot"><img src="https://img.shields.io/badge/Version-0.1-orange" alt="version"/></a>
     <a href=""><img src="https://img.shields.io/badge/Invite-JC Bot-blue" alt="Something"/></a>
 </div>
