@@ -7,24 +7,7 @@
     <a href=""><img src="https://img.shields.io/badge/Invite-JC Bot-blue" alt="Something"/></a>
 </div>
 
-# Template
-
-A short description.
-
-## Features
-
-- Feature 1
-- Feature 2
-
-## Installation
-
-Installation Guide.
-
 ## License
 
 The license applies only to the code in this repository. Images and other assets are explicitly excluded. The license for the code is the GNU General Public License Version 3.
 You can find more informations [here](./LICENSE)
-
-## Credits
-
-Thanks to **user** for something
