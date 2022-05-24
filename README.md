@@ -22,7 +22,7 @@ Installation Guide.
 
 ## License
 
-The license for the code is the GNU General Public License Version 3.
+The license applies only to the code in this repository. Images and other assets are explicitly excluded. The license for the code is the GNU General Public License Version 3.
 You can find more informations [here](./LICENSE)
 
 ## Credits
