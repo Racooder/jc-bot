@@ -1,0 +1,33 @@
+{
+  "name": "jc-bot",
+  "version": "0.1.0",
+  "description": "The Josh Connects discord bot",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Studio-Racoonia/jc-bot.git"
+  },
+  "keywords": [
+    "josh-connects",
+    "discord",
+    "bot"
+  ],
+  "author": "Racooder",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Studio-Racoonia/jc-bot/issues"
+  },
+  "homepage": "https://github.com/Studio-Racoonia/jc-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}
